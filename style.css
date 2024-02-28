@@ -102,6 +102,7 @@ header {
   height: 50px;
   border-bottom: 2px solid #fff;
   margin: 30px 0;
+  color: #fff;
 }
 .input-box label {
   position: absolute;
@@ -123,8 +124,16 @@ header {
   background: transparent;
   border: none;
   outline: none;
+  color: #fff;
 }
 .input-box .icon {
   position: absolute;
   right: 8px;
+}
+.remember-forgot {
+  color: #fff;
+  padding: 8px;
+}
+.remember-forgot.submit {
+  margin: 0;
 }
