@@ -30,8 +30,8 @@ header {
 }
 
 .logo-image {
-  width: 60px; /* Sesuaikan ukuran gambar */
-  height: 60px; /* Sesuaikan ukuran gambar */
+  width: 100px; /* Sesuaikan ukuran gambar */
+  height: 100px; /* Sesuaikan ukuran gambar */
   margin-left: 10px; /* Sesuaikan jarak antara gambar dan teks */
 }
 body {
@@ -89,10 +89,6 @@ input {
   background: #fff;
   color: #162938;
 }
-.logo-image {
-  width: 40px;
-  height: 40px;
-  margin-right: 10px; /* Sesuaikan jarak antara gambar dan teks */
-}
+
 .kotak {
 }
